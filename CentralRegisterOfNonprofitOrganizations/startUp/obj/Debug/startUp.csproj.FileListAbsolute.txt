@@ -1,0 +1,14 @@
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\startUp.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\startUp.exe
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\startUp.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\HtmlAgilityPack.dll
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\HtmlAgilityPack.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\HtmlAgilityPack.xml
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.exe
+c:\users\mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.dll
+C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.xml
+C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.csproj.ResolveComReference.cache
