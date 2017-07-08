@@ -161,6 +161,7 @@ namespace ImportHtml
         }
 
     }
+//var pattern = @"<h4>Предмет на дейност<\/h4>\n*\s*<.*>\n*\s*<.*>\n*\s*<.*>([^%]+)<\/pre>";
 
 }
 
