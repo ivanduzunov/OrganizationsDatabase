@@ -12,3 +12,17 @@ C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofit
 C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.xml
 C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Mihail\documents\visual studio 2017\Projects\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.csproj.ResolveComReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\startUp.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\startUp.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\startUp.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.dll
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.xml
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.csproj.ResolveComReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\OrganizationsDatabase\CentralRegisterOfNonprofitOrganizations\startUp\obj\Debug\startUp.pdb
